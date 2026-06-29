@@ -17,7 +17,8 @@ Desafio do curso da DIO Git e Github
 **📝 3. Realizem alterações:**
 
     - [x] COMMITS
-    - [ ] ISSUES
+    - [x] ISSUES
+    - [x] ISSUES
     - [x] PULL requests
 
 **📝 4.  Formatação com Markdown:** 
