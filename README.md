@@ -6,7 +6,7 @@ Desafio do curso da DIO Git e Github
 **💻 1. Criar uma conta no Github** 
 
     - [x] Adicionar seu README.MD ao criar o repositório
-    - [X] Utilize o Github.dev para editar o projeto
+    - [x] Utilize o Github.dev para editar o projeto
     - [x] Repositorio precisa ser público
 
 **📝 2. Colaboração**
@@ -17,8 +17,7 @@ Desafio do curso da DIO Git e Github
 **📝 3. Realizem alterações:**
 
     - [x] COMMITS
-    - [x] ISSUES
-    - [x] ISSUES
+    - [ ] ISSUES
     - [x] PULL requests
 
 **📝 4.  Formatação com Markdown:** 
